@@ -37,11 +37,11 @@ The manual installation method involves downloading the plugin and uploading it 
 
 = Where can I report bugs or contribute to the project? =
 
-Bugs should be reported in the [Google Listings and Ads GitHub repository](https://github.com/woocommerce/google-listings-and-ads/).
+Bugs should be reported in the [HotProducts GitHub repository](https://github.com/MrJoshFisher/HotProducts).
 
 = This is awesome! Can I contribute? =
 
-Yes you can! Join in on our [GitHub repository](https://github.com/woocommerce/google-listings-and-ads/) :)
+Yes you can! Join in on our [GitHub repository](https://github.com/MrJoshFisher/HotProducts) :)
 
 Release and roadmap notes available on the [WooCommerce Developers Blog](https://woocommerce.wordpress.com/)
 

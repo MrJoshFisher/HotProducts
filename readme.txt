@@ -29,7 +29,7 @@ Visit the [WooCommerce server requirements documentation](https://docs.woocommer
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. To do an automatic install of this plugin, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
-In the search field type “Google Listings and Ads” and click Search Plugins. Once you’ve found this plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
+In the search field type “Hot Products” and click Search Plugins. Once you’ve found this plugin you can view details about it such as the point release, rating and description. Most importantly of course, you can install it by simply clicking “Install Now”.
 
 = Manual installation =
 
@@ -37,15 +37,15 @@ The manual installation method involves downloading the plugin and uploading it 
 
 = Where can I report bugs or contribute to the project? =
 
-Bugs should be reported in the [Google Listings and Ads GitHub repository](https://github.com/woocommerce/google-listings-and-ads/).
+Bugs should be reported in the [Hot Products GitHub repository](https://github.com/MrJoshFisher/HotProducts).
 
 = This is awesome! Can I contribute? =
 
-Yes you can! Join in on our [GitHub repository](https://github.com/woocommerce/google-listings-and-ads/) :)
+Yes you can! Join in on our [GitHub repository](https://github.com/MrJoshFisher/HotProducts) :)
 
 Release and roadmap notes available on the [WooCommerce Developers Blog](https://woocommerce.wordpress.com/)
 
 = 1.0 - 2022-04-22 =
 * Inital - Initial files added.
 
-[See changelog for all versions](https://raw.githubusercontent.com/woocommerce/google-listings-and-ads/trunk/changelog.txt).
+[See changelog for all versions](https://github.com/MrJoshFisher/HotProducts/trunk/changelog.txt).
